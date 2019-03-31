@@ -11,8 +11,6 @@ Wybraną metodą krzyżowania, była metoda OX. Jest to metoda inwersji – w ob
 Mutowanie się osobników zostało zrealizowane za pomocą zamieniania się miejscami dwóch losowo (różnych od siebie) wybranych miejsc w genotypie (planie drogi) osobnika.
 W zadaniu zaimplementowane zostały dwie metody selekcji: ruletka i turniej.
 
-
-
 Wyniki planu drogi algorytmu genetycznego dla zooptymalizowanych parametrów:
 
 Rozmiar populacji: pop_size = 150
