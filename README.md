@@ -78,7 +78,12 @@ a)	liczba generacji = 100
 
 ![Alt text](https://user-images.githubusercontent.com/40302006/55287779-bef9cb80-53ad-11e9-935e-f61cdf0d1d17.png "Title")
  
+ 
 b)	Liczba generacji = 1 000
+
+![Alt text](https://user-images.githubusercontent.com/40302006/55287831-84446300-53ae-11e9-89ee-a3ed2c411da9.png "Title")
 
 
 c)	Liczba generacji = 10 000
+
+![Alt text](https://user-images.githubusercontent.com/40302006/55287831-84446300-53ae-11e9-89ee-a3ed2c411da9.png "Title")
