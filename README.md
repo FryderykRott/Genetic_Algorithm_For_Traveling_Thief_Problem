@@ -86,4 +86,4 @@ b)	Liczba generacji = 1 000
 
 c)	Liczba generacji = 10 000
 
-![Alt text](https://user-images.githubusercontent.com/40302006/55287831-84446300-53ae-11e9-89ee-a3ed2c411da9.png "Title")
+![Alt text](https://user-images.githubusercontent.com/40302006/55287785-dd5fc700-53ad-11e9-9909-43383bea5d98.png "Title")
