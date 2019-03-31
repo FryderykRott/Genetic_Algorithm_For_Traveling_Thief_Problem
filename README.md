@@ -72,10 +72,11 @@ Prawdopodobieństwo krzyżowania: Px = 0.7
 Prawdopodobieństwo mutacji: Px = 0.05
 Rozmiar turnieju: 5
 
-     Oraz liczby generacji równej 100, 1 000 i 10 000:
+Oraz liczby generacji równej 100, 1 000 i 10 000:
 
 a)	liczba generacji = 100
 
+![Alt text](https://user-images.githubusercontent.com/40302006/55287779-bef9cb80-53ad-11e9-935e-f61cdf0d1d17.png "Title")
  
 b)	Liczba generacji = 1 000
 
